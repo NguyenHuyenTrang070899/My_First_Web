@@ -13,7 +13,7 @@
 * Liên kết khóa học: [API](http://https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.nzr0nabmnmj3/API)
 * Liên kết git: [TransAPI](https://github.com/ThaoIE3/INT2208-7-2019/tree/master/nhom-19/DictionaryWeb/TransAPI/TransAPI)
 - [x] Kiểm tra lại các chức năng đã được đưa vào từ Google Translate để bảo đảm các chức năng như kiểm tra chính tả, hiện bản dịch ở đúng khung text
-* Liên kết khóa học: [Kinds_of_tests]
+* Liên kết khóa học: [Kinds_of_tests](http://https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.e3sa5k1h7i5n/Kinds_of_tests)
 - [x] Xây dựng các ca kiểm thử (test case) dựa trên kỹ thuật kiểm thử hộp tráng. Yêu cầu độ bao phủ của bộ kiểm thử phải trên 70%. Nếu dưới 70% thì sửa lại test case để đạt yêu cầu về độ bao phủ
 * Liên kết khóa học: [Testing](http://https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.ryzy80x4sqk1/Testing)
 - [x] Kiểm tra lại mã nguồn xem có mã xấu hay không. Nếu có mã xấu thì sửa lại đoạn mã đó
