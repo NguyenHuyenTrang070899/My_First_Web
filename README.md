@@ -7,7 +7,7 @@
 * Liên kết khóa học: [Kinds_of_tests](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.e3sa5k1h7i5n/Kinds_of_tests)
 - [x] Thiết lập mô hình MVC cho Tab Dịch đoạn văn bản
 * Liên kết khóa học: [MVC](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.kehlqoeo6d9r/MVC)
-* Liên kết git: [Translate](https://github.com/ThaoIE3/INT2208-7-2019/commit/712c50b4e4f0be777b9c9425f046ca15d15fcfa0/Translate)
+* Liên kết git: [Translate](https://github.com/ThaoIE3/INT2208-7-2019/commit/712c50b4e4f0be777b9c9425f046ca15d15fcfa0#diff-bb6197e00da3734b249dd26a12dfd8db/Translate)
 - [x] Tìm hiểu về API, cách thiết kế và sử dụng API
 - [x] Đưa phần dịch văn bản của Google Translate vào phần mềm
 * Liên kết khóa học: [API](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.nzr0nabmnmj3/API)
