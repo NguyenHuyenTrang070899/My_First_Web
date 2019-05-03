@@ -11,7 +11,7 @@
 - [x] Tìm hiểu về API, cách thiết kế và sử dụng API
 - [x] Đưa phần dịch văn bản của Google Translate vào phần mềm
 * Liên kết khóa học: [API](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.nzr0nabmnmj3/API)
-* Liên kết git: [TransAPI](https://github.com/ThaoIE3/INT2208-7-2019/tree/master/nhom-19/DictionaryWeb/TransAPI/TransAPI)
+* Liên kết git: [TransAPI](https://github.com/ThaoIE3/INT2208-7-2019/commit/0a8bd65bc526f087e70a4f61565c43e7e2a03d8e#diff-bb6197e00da3734b249dd26a12dfd8db/TransAPI)
 - [x] Kiểm tra lại các chức năng đã được đưa vào từ Google Translate để bảo đảm các chức năng như kiểm tra chính tả, hiện bản dịch ở đúng khung text
 * Liên kết khóa học: [Kinds_of_tests](http://https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.e3sa5k1h7i5n/Kinds_of_tests)
 - [x] Xây dựng các ca kiểm thử (test case) dựa trên kỹ thuật kiểm thử hộp tráng. Yêu cầu độ bao phủ của bộ kiểm thử phải trên 70%. Nếu dưới 70% thì sửa lại test case để đạt yêu cầu về độ bao phủ
