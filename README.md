@@ -2,7 +2,7 @@
 - [x] Tự học HTML, PHP, CSS, Bootstrap
 - [x] Tạo form giao diện PHP nhúng HTML, CSS cho Tab Dịch đoạn văn bản <Tham khảo bootstrap 4.0>
 * Liên kết khóa học: [Interface_segregation_principle](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.t50jyopjk04o/Interface_segregation_principle)
-* Liên kết git: [Interface](https://github.com/ThaoIE3/INT2208-7-2019/commit/8b5c530ed1121ad11b65b4250c6cb469b4f59e9a#diff-0be975eaee22a8e2e2e98ba9d680c127/Interface)
+* Liên kết git: [Interface](https://github.com/ThaoIE3/INT2208-7-2019/commit/252262edcd223fd98e1e4ee92deb6c376ce3a769#diff-bb6197e00da3734b249dd26a12dfd8db/Interface)
 - [x] Xem lại giao diện đã tạo để đảm bảo giao diện đơn giản, thân thiện và dễ sử dụng
 * Liên kết khóa học: [Kinds_of_tests](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.e3sa5k1h7i5n/Kinds_of_tests)
 - [x] Thiết lập mô hình MVC cho Tab Dịch đoạn văn bản
